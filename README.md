@@ -162,7 +162,7 @@ background: rgba(0, 168, 255, 0.6);
 
 ![iPhone 14 - 1](https://github.com/Mohanish7777777/Event-registration/assets/111619160/47708159-e204-460b-acf0-435aec1054ea)
 ![iPhone 14 - 2](https://github.com/Mohanish7777777/Event-registration/assets/111619160/e1757b7e-1647-4132-b691-270f8c5e0e29)
-![iPhone 14 - 3](https://github.com/Mohanish7777777/Event-registration/assets/111619160/4a54f97e-8b92-4cac-8e72-91a5ec00d98c
+![iPhone 14 - 3](https://github.com/Mohanish7777777/Event-registration/assets/111619160/4a54f97e-8b92-4cac-8e72-91a5ec00d98c)
 ![iPhone 14 - 4](https://github.com/Mohanish7777777/Event-registration/assets/111619160/552ce4cc-f5db-4b3a-b388-b01ab2bed4a4)
 
 
